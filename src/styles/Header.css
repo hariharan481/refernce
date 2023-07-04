@@ -1,0 +1,14 @@
+.logo{
+ 
+
+margin-top: 20px;
+
+}
+.navbar{
+    background: linear-gradient(to right, #E9F8FF, #90B2D8, #C1E3FF);
+}
+.search{
+   height:100px;
+   width:1580px;
+   background-color: blueviolet;
+  }

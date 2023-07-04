@@ -1,0 +1,88 @@
+table {
+ 
+  
+  
+    
+    overflow: hidden;
+    margin-left: 120px;
+    margin-top: 20px;
+  }
+  th,
+  td {
+  
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    line-height: 1;
+    color: black;
+    font-size: small;
+    font-family: "Verdana", sans-serif;
+    border: none;
+  }
+  .tab-head {
+    margin-top: 0;
+    padding-top: 6px;
+    color: black;
+    font-size: small;
+    font-family: "Verdana", sans-serif;
+    background-color: #ADD8E6;
+    padding-left: 10px;
+    padding-bottom: 5px;
+  }
+  .Table-box {
+ 
+    height: 400px;
+    width: 60%;
+    float: right;
+    margin-top: 150px;
+    margin-right: 10px;
+  }
+  .code-details {
+    margin-top: 90px;
+    padding-top: 6px;
+    color: black;
+    font-size: medium;
+    font-family: "Verdana", sans-serif;
+  }
+  .bill {
+    border-radius: 5px;
+    transition: all 0.2s;
+    box-shadow: 10px 10px 5px #888888;
+    width: 100px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: #4169E1;
+    margin-left: 20%;
+    margin-top: 0;
+  }
+  .bill:active {
+    transform: scale(0.9);
+    
+  }
+  .disease {
+    font-size: small;
+    font-family: "Verdana", sans-serif;
+    margin-left: 150px;
+  }
+  /* Style the tab */
+  .tab {
+    overflow: hidden;
+  }
+  /* Style the buttons that are used to open the tab content */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+  }
+  /* Style the close icon */
+  .closeIcon {
+    cursor: pointer;
+  }
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+  }

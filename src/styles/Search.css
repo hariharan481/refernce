@@ -1,0 +1,102 @@
+.citytextbox{
+    height:7vh;
+    width:50vw;
+    font-size: 2rem;
+    text-align: center;
+  }
+  .App-body{
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    background-color: white;
+  }
+  .suggestion{
+    background-color: black;
+    width:40vw;
+    color: aliceblue;
+    height:10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    border:1px solid darkblue;
+  }
+  .suggestionWrapper{
+    height:30vh;
+    overflow-y: scroll;
+    border:1px solid darkblue;
+  }
+  .suggestion:hover{
+    color:blue;
+    cursor:pointer;
+  }
+  .citytextbox{
+    height:4vh;
+    width:75vw;
+    font-size: 1rem;
+    text-align: left;
+    margin-left: 200px;
+
+  }
+  .App-body{
+    min-height: 10vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+
+
+background-color: white;
+  }
+  
+  .suggestion{
+    background-color: black;
+    width:40vw;
+    color: aliceblue;
+    height:10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    border:1px solid darkblue;
+  }
+  .suggestionWrapper{
+    height:30vh;
+    overflow-y: scroll;
+    border:1px solid darkblue;
+  }
+  .suggestion:hover{
+    color:blue;
+    cursor:pointer;
+  }
+  .searchicon{
+    background-color:  rgba(151,143,205,1);
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
